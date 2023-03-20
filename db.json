@@ -64,34 +64,6 @@
       "image": "https://image.tmdb.org/t/p/w500/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
       "genre" : "Drama",
       "desc": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption."
-    },
-    {
-      "id": 10,
-      "title": "Die Hart",
-      "image": "https://image.tmdb.org/t/p/w500/1EnBjTJ5utgT1OXYBZ8YwByRCzP.jpg",
-      "genre" : "Action, Comedy, Thriller",
-      "desc": "Kevin Hart - playing a version of himself - is on a death-defying quest to become an action star. And with a little help from John Travolta, Nathalie Emmanuel, and Josh Hartnett - he just might pull it off."
-    },
-    {
-      "id": 11,
-      "title": "Plane",
-      "image": "https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
-      "genre" : "Action, Adventure, Thriller",
-      "desc": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage."
-    },
-    {
-      "id": 12,
-      "title": "Creed III",
-      "image": "https://image.tmdb.org/t/p/w500/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg",
-      "genre" : "Drama, Sport",
-      "desc": "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien — a fighter who has nothing to lose."
-    },
-    {
-      "id": 13,
-      "title": "Avatar: The Way of Water",
-      "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
-      "genre" : "Action, Adventure, Fantasy",
-      "desc": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
     }
   ],
   "Recommend": [
