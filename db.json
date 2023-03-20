@@ -99,34 +99,6 @@
       "image": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
       "genre" : "Horror, Sci-Fi, Thriller",
       "desc": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results."
-    },
-    {
-      "id": 15,
-      "title": "Cocaine Bear",
-      "image": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
-      "genre" : "Comedy, Thriller",
-      "desc": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine."
-    },
-    {
-      "id": 16,
-      "title": "Huesera: The Bone Woman",
-      "image": "https://image.tmdb.org/t/p/w500/zgpj76z9byUgcWnxLDmtZ3XqfvN.jpg",
-      "genre" : "Drama, Horror",
-      "desc": "Valeria's joy at becoming a first-time mother is quickly taken away when she's cursed by a sinister entity. As danger closes in, she's forced deeper into a chilling world of dark magic that threatens to consume her."
-    },
-    {
-      "id": 17,
-      "title": "Little Dixie",
-      "image": "https://image.tmdb.org/t/p/w500/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
-      "genre" : "Action, Crime, Thriller",
-      "desc": "Erstwhile Special Forces operative Doc Alexander is asked to broker a truce with the Mexican drug cartel in secrecy. When Oklahoma Governor Richard Jeffs celebrates the execution of a high-ranking cartel member on TV, his Chief of Staff and Doc inform him about the peace he just ended. But it’s too late, as Cuco, the cartel’s hatchet man, has set his vengeful sights on Doc’s daughter Dixie."
-    },
-    {
-      "id": 18,
-      "title": "Lord of the Streets",
-      "image": "https://image.tmdb.org/t/p/w500/mbigXpUgVgLOacgxlyFfsLRFqxQ.jpg",
-      "genre" : "Action",
-      "desc": "When Jason Dyson refuses to make his prized fighter throw an MMA match, a notorious gangster collects his debt by killing the fighter and kidnapping Jason's daughter. Now he must train a prisoner to endure five consecutive underground fights to save her."
     }
   ],
   "Recommend": [
@@ -178,36 +150,6 @@
       "image": "https://image.tmdb.org/t/p/w500/mbigXpUgVgLOacgxlyFfsLRFqxQ.jpg",
       "genre" : "Action",
       "desc": "When Jason Dyson refuses to make his prized fighter throw an MMA match, a notorious gangster collects his debt by killing the fighter and kidnapping Jason's daughter. Now he must train a prisoner to endure five consecutive underground fights to save her."
-    }
-  ],
-  "Genres_Action": [
-    {
-      "id": 1,
-      "title": "Sword Art Online",
-      "image": "https://cdn.myanimelist.net/images/anime/11/39717.webp",
-      "genre": "Action, Adventure, Fantasy, Romance",
-      "Deskripsi":"Sword Art Online (SAO), one of the most recent games on the console, offers a gateway into the wondrous world of Aincrad, a vivid, medieval landscape where users can do anything within the limits of imagination."
-    },
-    {
-      "id": 2,
-      "title": "Kimetsu no Yaiba",
-      "image": "https://cdn.myanimelist.net/images/anime/1286/99889.webp",
-      "genre": "Action, Award Winning, Fantasy",
-      "Deskripsi":"Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life."
-    },
-    {
-      "id": 3,
-      "title": "Tokyo Ghoul",
-      "image": "https://cdn.myanimelist.net/images/anime/5/64449.webp",
-      "genre": "Action, Fantasy, Horror",
-      "Deskripsi":"Reserved college student Ken Kaneki buries his nose in books and avoids the news of the growing crisis. However, the appearance of an attractive woman named Rize Kamishiro shatters his solitude when she forwardly asks him on a date."
-    },
-    {
-      "id": 4,
-      "title": "Akame ga Kill!",
-      "image": "https://cdn.myanimelist.net/images/anime/1429/95946.webp",
-      "genre": "Action, Fantasy",
-      "Deskripsi":"Night Raid is the covert assassination branch of the Revolutionary Army, an uprising assembled to overthrow Prime Minister Honest, whose avarice and greed for power has led him to take advantage of the child emperor's inexperience."
     }
   ],
   "profile": {
