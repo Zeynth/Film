@@ -92,13 +92,6 @@
       "image": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
       "genre" : "Action, Adventure, Fantasy",
       "desc": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."
-    },
-    {
-      "id": 14,
-      "title": "M3GAN",
-      "image": "https://image.tmdb.org/t/p/w500/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
-      "genre" : "Horror, Sci-Fi, Thriller",
-      "desc": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results."
     }
   ],
   "Recommend": [
